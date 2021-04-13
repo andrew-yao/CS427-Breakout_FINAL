@@ -8,5 +8,5 @@ To play the game: [click here](https://andrew-yao.github.io/CS427-Breakout_FINAL
 
 ## Authors
 * [Scott Edwardsen]
-* [Harry Gruner](https://github.com/)
+* [Harry Gruner](https://github.com/Grunerh88)
 * [Andrew Yao](https://github.com/andrew-yao)
